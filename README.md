@@ -6,7 +6,6 @@ Aspiring IT professional interested in Data Analytics, Python and Cybersecurity.
 - IT Project Delay & Performance Analytics (Python, Pandas, Matplotlib, Seaborn)
 
 ## Personal Projects
-- [IT Project Delay & Performance Analytics](https://github.com/ankitakarke2250-web/it-project-delay-analytics): analyzes IT project delays, bugs, client changes and cost overruns using Python
 - [IntelliRoute](https://github.com/ankitakarke2250-web/IntelliRoute): an intelligent packet routing system powered by graph algorithms
 - [Traditional Programming vs Machine Learning](https://github.com/ankitakarke2250-web/Traditional-Programming-Vs-Machine-Learning): a comparison of rule-based programming and machine learning approaches to solving the same problem
 
